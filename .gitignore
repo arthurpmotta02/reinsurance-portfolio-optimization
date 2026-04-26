@@ -15,9 +15,9 @@ data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
-results/figures/*
+# results/figures/*
 results/tables/*
-!results/figures/.gitkeep
+# !results/figures/.gitkeep
 !results/tables/.gitkeep
 
 .ipynb_checkpoints/
