@@ -222,4 +222,4 @@ Original source: Dutang & Charpentier, *CASdatasets* R package.
 ## Author
 
 Arthur Motta — Statistics and Actuarial Science, UFRJ  
-[GitHub](https://github.com/arthurpmotta02) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+[GitHub](https://github.com/arthurpmotta02) | [LinkedIn](https://www.linkedin.com/in/arthurpmotta/)
