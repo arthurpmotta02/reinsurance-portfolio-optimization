@@ -147,7 +147,7 @@ reinsurance-portfolio-optimization/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/reinsurance-portfolio-optimization.git
+git clone https://github.com/arthurpmotta02/reinsurance-portfolio-optimization.git
 cd reinsurance-portfolio-optimization
 python -m venv venv
 venv\Scripts\activate        # Windows
